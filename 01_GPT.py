@@ -2,7 +2,7 @@
 from openai import OpenAI
 
 # OpenAI API 키 설정
-client = OpenAI(api_key='Your API KEY')
+client = OpenAI(api_key='API_KEY')
 
 
 # GPT-4 모델에 요청 보내기
